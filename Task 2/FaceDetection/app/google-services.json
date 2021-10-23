@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473985351606",
+    "project_id": "face-detection-bc7a5",
+    "storage_bucket": "face-detection-bc7a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473985351606:android:89f80a061de575be868b17",
+        "android_client_info": {
+          "package_name": "com.sumitsoftwares.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473985351606-gmgjhektuljtlc3m1tetgitbsb17r4oq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6lAufsrDuR3hzi45NlJMr2ZtdAsx7LGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473985351606-gmgjhektuljtlc3m1tetgitbsb17r4oq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
